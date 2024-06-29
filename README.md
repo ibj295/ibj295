@@ -10,6 +10,7 @@
 - 💬 Ask me about **Power BI, SQL, Excel, Dashboard, Data Analytics, KPI **
 
 - 📄 My Resume: https://drive.google.com/file/d/1kIGLHYDNuaLiJjUeZms17CXJ8BV74U5b/view?usp=sharing
+- ⭐ Power BI Portfolio: https://www.novypro.com/profile_projects/sandip-pawar
 
 ## About Me
 
