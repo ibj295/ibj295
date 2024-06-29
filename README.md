@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Power BI, SQL, Excel, Dashboard, Data Analytics, KPI **
 
-- 📄 My Resume [https://drive.google.com/file/d/1kIGLHYDNuaLiJjUeZms17CXJ8BV74U5b/view?usp=sharing](https://drive.google.com/file/d/1kIGLHYDNuaLiJjUeZms17CXJ8BV74U5b/view?usp=sharing)
+- 📄 My Resume [[https://drive.google.com/file/d/1kIGLHYDNuaLiJjUeZms17CXJ8BV74U5b/view?usp=sharing](https://drive.google.com/file/d/1kIGLHYDNuaLiJjUeZms17CXJ8BV74U5b/view?usp=sharing)](https://drive.google.com/file/d/1uGilcFBWd_LUQHDoHiYA1U-XtDg7Ytya/view?usp=sharing)
 
 ## About Me
 
